@@ -1,0 +1,5 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v1.10
+_src_path: https://github.com/SS-NES/meta-template.git
+description: A template for research software using Python
+template_name: Python Package Template
